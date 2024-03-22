@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Sorter {
 
-  //Hola gatitos :3
+  // hola mundo
 
     public static double[] quick(double[] numbers) {
         int n = numbers.length;
